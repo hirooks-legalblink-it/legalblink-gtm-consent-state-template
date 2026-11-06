@@ -1,5 +1,5 @@
 homepage: "https://legalblink.it"
 documentation: "https://github.com/hirooks-legalblink-it/legalblink-gtm-consent-state-template#readme"
 versions:
-  - sha: 557c5c6c02df8997581e7b9e0646d68cce3f4fb9
+  - sha: e12ba1adaf4c9f95c898de66611429632e345803
     changeNotes: Initial release.
